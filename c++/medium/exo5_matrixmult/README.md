@@ -15,3 +15,11 @@ Exemple de lancement :
 ```
 
 Quelle est la complexité de votre algorithme ? Les temps mesurés sont-ils cohérents avec cette complexité ?
+
+O(n³) si on multiplie par 2 sa fait environ * 8 le temps
+
+500 : 1,618,500
+
+1000: 13,450,954
+
+2000, 111,772,669

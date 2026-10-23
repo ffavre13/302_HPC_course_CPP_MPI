@@ -13,5 +13,7 @@ Exemple de lancement avec un argument :
 ```
 
 Quelle est la complexité de votre algorithme ? Les temps mesurés sont-ils cohérents avec cette complexité ?
+C'est complexité O(n), oui ils sont cohérents : 1m - 4814, 10m - 48164, 100m - 478111
 
 Attention au type de la variable qui contient le résultat : quelle est la valeur maximale qu’elle peut atteindre ?
+il s'agit d'un int, c'est donc max 2,147,483,647 (2^31 -1)
