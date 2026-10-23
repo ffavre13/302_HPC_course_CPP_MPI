@@ -19,8 +19,12 @@ int main()
         file << i * num << "\n";
     }
 
+    file.close();
+
     auto end = high_resolution_clock::now();
     auto duration = duration_cast<microseconds>(end - start);
 
     cout << duration.count() << endl;
+
+    return 0;
 }

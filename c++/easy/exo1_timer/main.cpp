@@ -14,4 +14,6 @@ int main()
     auto duration = duration_cast<microseconds>(end - start);
 
     cout << duration.count() << endl;
+
+    return 0;
 }
