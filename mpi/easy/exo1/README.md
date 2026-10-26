@@ -23,3 +23,4 @@ Processor 4 - Hello World
 ```
 
 Lancez votre programme plusieurs fois. Que remarquez-vous sur l’ordre d’affichage des messages ? Comment l’expliquez-vous ?
+L'ordre change 

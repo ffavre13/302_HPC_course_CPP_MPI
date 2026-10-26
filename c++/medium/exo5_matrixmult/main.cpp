@@ -36,6 +36,8 @@ int main(int argc, char const *argv[])
         exit(1);
     }
 
+    // int* m1 = new int[size * size]();
+    // delete[] m1;
     vector<int> m1(size * size);
     vector<int> m2(size * size);
     vector<int> mres(size * size);
